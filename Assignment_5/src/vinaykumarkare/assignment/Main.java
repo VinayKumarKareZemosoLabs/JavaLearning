@@ -7,7 +7,8 @@ public class Main {
 
     Singleton singletonRef = Singleton.sMethod("Vinay");
 
-    singletonRef.printMethod();
+
+/*    singletonRef.printMethod();*/
 
 
 

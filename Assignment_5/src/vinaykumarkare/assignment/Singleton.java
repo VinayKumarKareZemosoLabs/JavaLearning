@@ -5,7 +5,9 @@ public class Singleton {
 
     static Singleton sMethod(String name){
 
+/*
         nameNonStatic ="Vinay Kumar Kare";
+*/
 
         Singleton ref = new Singleton();
 
