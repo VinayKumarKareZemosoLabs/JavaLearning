@@ -1,0 +1,12 @@
+
+E
+java:S5411*"*Use the primitive boolean expression here.(Ú½ž²ûÿÿÿÿ
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ÖÔÊÄ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(°²ù³
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(¬ëµ½
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(±¤ª¹
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(¦ÇæÞÿÿÿÿÿ
+B
+java:S11258"'Remove the unnecessary boolean literal.(Ôœ“Æûÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(ÕÙëüýÿÿÿÿ

@@ -29,7 +29,7 @@ public class FindFiles {
             // To take inout from user
             fileName = input.nextLine();
 
-            //list of file is stored in string
+            //String array to store list of files
             String[] files = file.list();
 
             // For Loop to check continuously each file or folder

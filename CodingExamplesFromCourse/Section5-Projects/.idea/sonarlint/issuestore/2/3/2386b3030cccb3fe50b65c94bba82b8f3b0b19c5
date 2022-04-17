@@ -1,0 +1,11 @@
+
+O
+java:S1854"9Remove this useless assignment to local variable "name3".(Êç¢
+@
+java:S1481"*Remove this unused "name3" local variable.(Êç¢
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(à¨€Åøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(—½Öñüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ãÁûŞûÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ŸÒ¼@
+U	java:S106"9Replace this use of System.out or System.err by a logger.(İÇ¬ß8Œ›Á0
