@@ -4,7 +4,7 @@ import java.util.regex.*;
 
 public class CheckRegEx {
     private List<String> list=new ArrayList<String>();
-//    public CheckRegEx(){}
+
     public CheckRegEx(List<String> l){list=l;}
 
     public void parse(String regex){
@@ -30,6 +30,7 @@ public class CheckRegEx {
         CheckRegEx test=new CheckRegEx( Arrays.asList(input) );
 
         String regex="^[A-Z].*\\.";
+        
         test.parse(regex);
     }
 }
