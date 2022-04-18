@@ -1,0 +1,11 @@
+
+J
+java:S1066+"/Merge this if statement with the enclosing one.(ô¡Çùÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ûäùÿÿÿÿ
+R
+java:S1854"7Remove this useless assignment to local variable "res".(èŠ¿Éüÿÿÿÿ
+C
+java:S1481"(Remove this unused "res" local variable.(èŠ¿Éüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÌÀü»üÿÿÿÿ
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÉÄÖƒ0

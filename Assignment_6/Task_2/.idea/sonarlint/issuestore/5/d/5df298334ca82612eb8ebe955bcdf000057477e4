@@ -1,0 +1,9 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Þ°ö«8Ûƒ‚Æƒ0
+X	java:S125"<This block of commented-out lines of code should be removed.(¨ÃÙÑ8Üƒ‚Æƒ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‘ÌÌ½8Ýƒ‚Æƒ0
+X	java:S125"<This block of commented-out lines of code should be removed.(½¬éÔ8Þƒ‚Æƒ0
+b
+java:S1854"@Remove this useless assignment to local variable "consOverload".(èÓÜêúÿÿÿÿ8ßƒ‚Æƒ0
+S
+java:S1481"1Remove this unused "consOverload" local variable.(èÓÜêúÿÿÿÿ8âƒ‚Æƒ0
