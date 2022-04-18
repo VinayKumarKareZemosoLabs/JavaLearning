@@ -3,8 +3,8 @@ public class ArrayOfObjectReferences {
     public static void main(String[] args) {
         Employees[] employees;
         employees = new Employees[2];
-        employees[0] = new Employees("Vinay");
-        employees[1] = new Employees("Kumar");
+        employees[0] = new Employees("Zemoso");
+        employees[1] = new Employees("Labs");
     }
 }
 
