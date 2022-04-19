@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="729c29b4-5d85-4243-8c25-ebf7ebda7e4d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment_3/.idea/Assignment_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment_7/Assignment7/Assignment7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment_7/CycleAssignment/CycleAssignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment_7/InnerClassAssignment/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment_7/InnerClassAssignment/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment_7/InnerClassAssignment/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment_7/InnerClassAssignment/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment_7/InnerClassAssignment/src/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment_7/InnerClassAssignment/src/DriverClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment_7/InnerClassAssignment/src/SubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment_7/InterfacesAssignment/src/DriverCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment_7/Task4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment_7/Task4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment_7/Task4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment_7/Task4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment_7/Task4/src/Bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment_7/Task4/src/Cycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment_7/Task4/src/CycleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment_7/Task4/src/DriverClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment_7/Task4/src/Tricycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment_7/Task4/src/Unicycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CountOccurences/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/CountOccurences/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_2New/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_2New/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_5/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment_5/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_6/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment_6/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_9/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment_9/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_9/src/CheckRegEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment_9/src/CheckRegEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PingHost/.idea/sonarlint/issuestore/c/d/cdcca89d7b80fac6c6494b10725bc45a6314ca77" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PingHost/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../PingHost/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PingHost/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PingHost/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PingHost/out/production/PingHost/PingHost.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="280Hsf2YbF4MVq1syoq9HdxPZoD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/vinaK/Java/Assignment_11&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="CountOccurencesOfInputFileName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountOccurencesOfInputFileName" />
+      <module name="Assignment_11" />
+      <option name="PROGRAM_PARAMETERS" value="CountOccurence.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CountOccurencesOfInputFileName" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="729c29b4-5d85-4243-8c25-ebf7ebda7e4d" name="Changes" comment="" />
+      <created>1650346790264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650346790264</updated>
+    </task>
+    <servers />
+  </component>
+</project>
